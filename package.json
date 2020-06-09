@@ -1,0 +1,30 @@
+{
+  "name": "carbon",
+  "version": "1.0.0",
+  "description": "An image hosting web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyBankes/Carbon.git"
+  },
+  "keywords": [
+    "Carbon",
+    "Image",
+    "Host",
+    "Server",
+    "Web",
+    "Picture"
+  ],
+  "author": "Jeremy Bankes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JeremyBankes/Carbon/issues"
+  },
+  "homepage": "https://github.com/JeremyBankes/Carbon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
